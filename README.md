@@ -15,6 +15,9 @@ To design an intuitive and visually appealing e-commerce user interface by apply
 ## 🛠️ Tools Used
 - Figma
 
+## 🔗 Figma Design Link
+[View Design] (https://www.figma.com/proto/aX3AsTPcVSqVeyILd6gmaC/Untitled?page-id=0%3A1&node-id=5-2&p=f&viewport=693%2C-29%2C0.9&t=wRyjauslxZNKogez-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3)
+
 ### Home Page
 ![Home](output/home.png)
 
