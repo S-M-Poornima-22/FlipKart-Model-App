@@ -92,4 +92,4 @@ This project helped me understand how **UI design and user experience work toget
 ## 👩‍💻 Designed By
 
 **Poornima**
-*Computer Science Engineering Graduate*
+
