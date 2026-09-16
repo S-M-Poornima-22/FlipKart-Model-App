@@ -49,19 +49,25 @@ The goal was to keep each step clear and reduce unnecessary complexity in the sh
 
 ### 🏠 Home Screen
 
-![Home Screen](screenshots/Home_page.png)
+![Home Screen](screenshots/Home.png)
 
 ### 📦 Product Catalogue
 
-![Product Catalogue](screenshots/products_page.png)
+![Product Catalogue](screenshots/products.png)
 
 ### 🛒 Shopping Cart
 
-![Shopping Cart](order_page.png)
+![Shopping Cart](order.png)
 
-### 💳 Checkout
+### 💳 transaction
 
-![Checkout](screenshots/checkout.png)
+![Checkout](screenshots/transaction.png)
+
+## 🎨 Figma Prototype
+
+Explore the complete interactive e-commerce design and user flow in Figma.
+
+👉 [View Interactive Prototype](https://www.figma.com/proto/aX3AsTPcVSqVeyILd6gmaC/Untitled?page-id=0%3A1&node-id=5-141&p=f&viewport=693%2C-29%2C0.9&t=CzMtH2jjhyCr7epQ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3)
 
 ---
 
